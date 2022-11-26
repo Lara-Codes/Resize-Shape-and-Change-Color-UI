@@ -1,0 +1,3 @@
+Mainfest-Version: 1.0 
+Class-Path: .
+Main-Class: resizeshape.Driver
